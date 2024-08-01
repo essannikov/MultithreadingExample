@@ -1,0 +1,8 @@
+https://skillbox.ru
+	https://skillbox.ru/course/
+	https://skillbox.ru/courses/
+	https://skillbox.ru/legal-docs/
+	https://skillbox.ru/media/
+	https://skillbox.ru/referral/
+	https://skillbox.ru/sale/
+		https://skillbox.ru/sale/main/
